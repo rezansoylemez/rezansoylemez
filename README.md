@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezansoylemez
 - 👀 I’m interested in ...in mobile application software
-- 🌱 I’m currently learning ...Android and IO
-- 💞️ I’m looking to collaborate on ...Swift and Android Studio
+- 🌱 I’m currently learning ...Java and Swift 
+- 💞️ I’m looking to collaborate on ...Android and IOS
 - 📫 How to reach me ...rezan.sm@gmail.com
 
 <!---
