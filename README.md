@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rezansoylemez
-- 👀 I’m interested in ...in mobile application software
+- 👋 Hi, I’m @rezansoylemez and I'm Full Stack Developer 
+- 👀 I’m interested in ...ASP.NET,JavaScript,Java,Swift
 - 🌱 I’m currently learning ...Java and Swift 
-- 💞️ I’m looking to collaborate on ...Android and IOS
+- 💞️ My experience is... Primarily with C# and ASP.NET and related technologies
 - 📫 How to reach me ...rezan.sm@gmail.com
 
 <!---
