@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rezan Soylemez</h1>
 <h3 align="center">Backend developer</h3>
-
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 - 🔭 I’m currently working on **HOTDA**
 
 - 🌱 I’m currently learning **Swift**
