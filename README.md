@@ -1,5 +1,8 @@
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
  
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+<div align="center">
+  
+</div>
 <h1 align="center">Hi 👋, I'm Rezan Soylemez</h1>
 <h3 align="center">Backend developer</h3>
 
